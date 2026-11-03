@@ -1,0 +1,12 @@
+# Tested with Python 3.12.9, CUDA 12.4, on an NVIDIA RTX 6000 Ada.
+--extra-index-url https://download.pytorch.org/whl/cu124
+torch==2.5.1
+torchvision==0.20.1
+numpy==1.26.4
+opencv-python==4.11.0.86
+scikit-image==0.25.0
+kornia==0.8.0
+einops==0.8.1
+pillow==11.2.1
+matplotlib==3.10.1
+tqdm==4.67.1
