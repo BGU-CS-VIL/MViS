@@ -24,13 +24,10 @@ Ben-Gurion University of the Negev
 <br>
 
 <p>
-  <a href="https://bgu-cs-vil.github.io/MViS-project/"><img src="assets/buttons/project-page.svg" alt="Project Page" height="44"></a>&nbsp;
-  <a href="https://neurips.cc/virtual/2026/poster/154835"><img src="assets/buttons/paper.svg" alt="Paper (NeurIPS 2026)" height="44"></a>&nbsp;
-  <img src="assets/buttons/arxiv.svg" alt="arXiv" height="44">&nbsp;
-  <img src="assets/buttons/dataset.svg" alt="MMCD Dataset" height="44">
+  <a href="https://bgu-cs-vil.github.io/MViS-project/"><picture><source media="(max-width: 600px)" srcset="assets/buttons/project-page-sm.svg"><img src="assets/buttons/project-page.svg" alt="Project Page"></picture></a>
+  <a href="https://arxiv.org/pdf/2611.09570"><picture><source media="(max-width: 600px)" srcset="assets/buttons/paper-sm.svg"><img src="assets/buttons/paper.svg" alt="Paper"></picture></a>
+  <a href="https://huggingface.co/datasets/VIL-Group/MMCD"><picture><source media="(max-width: 600px)" srcset="assets/buttons/dataset-sm.svg"><img src="assets/buttons/dataset.svg" alt="MMCD Dataset"></picture></a>
 </p>
-
-<sub>*Paper and dataset coming soon</sub>
 
 <br>
 
